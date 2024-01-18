@@ -93,7 +93,7 @@ public static void main(String[] args) {
                System.out.println("\n");
              }
      break;
-     default: System.out.println("Come on Stupid....1-2 Only!");
+     default: System.out.println("Come on....1-2 Only!");
      break;
        }
       }
